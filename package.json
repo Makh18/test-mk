@@ -1,0 +1,22 @@
+{
+  "name": "trustit-assessment-test",
+  "version": "0.0.0",
+  "description": "Assessment Test for trustit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "assessment",
+    "test"
+  ],
+  "author": "Mustafa Mokrani <mokrani.mustafa@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest-cli": "^27.0.6"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
